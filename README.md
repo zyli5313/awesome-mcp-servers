@@ -152,7 +152,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Automated extraction, transformation, and analysis of information from documents to make their content usable by software systems.
 
 - <img src="https://avatars.githubusercontent.com/u/166614754?s=200&v=4" height="14"/> [Adeu](https://github.com/dealfluence/adeu) - Automated DOCX Redlining Engine and "Virtual DOM" for Microsoft Word. Enables agents to read, diff, edit, and negotiate contracts locally or via live COM interop.
-- <img src="https://dochost.io/favicon.ico" height="14"/> [dochost](https://dochost.io/mcp) - Hosted, OAuth-protected MCP server that publishes Markdown or HTML to a clean, public, shareable link straight from your AI assistant — no copy-paste, no API keys.
+- <img src="https://dochost.io/favicon.ico" height="14"/> [dochost](https://github.com/zyli5313/dochost-mcp) - Turn Markdown or HTML into a public shareable link. Remote server over Streamable HTTP with OAuth, no API keys; published pages are served script-free from a separate cookieless origin.
 
 
 <br />
